@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container mx-auto py-8">
+    <div class="container mx-auto py-8 p-4">
         <div class="gap-2 sm:flex sm: hidden">
           <p class="text-4xl font-bca_bold mb-8 text-[#7ED957]" >Education</p>
           <p class="text-4xl font-bca_bold mb-8">background</p>
