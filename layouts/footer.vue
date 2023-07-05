@@ -10,7 +10,7 @@
       <nuxt-link to="https://github.com/hengchomroeunnn" target="_blank"
         ><Icon
           name="uil:github"
-          class="m-4 text-gray-500 text-[40px] hover:rotate-12 hover:text-black max-[515px]:text-[30px] "
+          class="m-4 text-gray-500 text-[40px] hover:rotate-12 hover:text-black max-[515px]:text-[30px] dark:hover:text-white"
       /></nuxt-link>
       <nuxt-link to=""
         ><Icon
