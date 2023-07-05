@@ -1,12 +1,30 @@
-@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital@0;1&family=Signika+Negative:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Signika:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Khmer&display=swap');
-@tailwind base;
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/SourceSansPro-Regular.ttf') format('truetype');
+}
 
-.exact-active {
-    @apply  text-[#7ED957] 
-  }
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('~assets/fonts/SourceSansPro-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Kantumruy';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/Kantumruy-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'battambang';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/KH-BATTAMBANF.ttf') format('truetype');
+}

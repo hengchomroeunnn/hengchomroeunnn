@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     classSuffix: "",
   },
   devtools: { enabled: true },
-  css: ["~/assets/css/main.css"],
+  css: ["~/assets/css/tailwind.css"],
   postcss: {
     plugins: {
       tailwindcss: {},
