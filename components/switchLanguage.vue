@@ -3,7 +3,7 @@
     <button @click="toggleState = !toggleState" class="toggle-button">
       <Icon
         :name="
-          toggleState ? 'twemoji:flag-united-kingdom' : 'twemoji:flag-cambodia'
+          toggleState ? 'twemoji:flag-cambodia' : 'twemoji:flag-united-kingdom'
         "
         class="text-[40px] m-4 max-[400px]:text-[25px] max-[480px]:text-[28px]" />
     </button>
