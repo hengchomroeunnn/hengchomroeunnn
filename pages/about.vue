@@ -2,7 +2,7 @@
   <div>
     <div class="container mx-auto py-8">
         <div class="gap-2 sm:flex sm: hidden">
-          <p class="text-4xl font-bca_bold mb-8 text-[#7ED957]">Education</p>
+          <p class="text-4xl font-bca_bold mb-8 text-[#7ED957]" >Education</p>
           <p class="text-4xl font-bca_bold mb-8">background</p>
         </div>
         <div class="max-w-sm sm:hidden focus:outline-none flex gap-2">
@@ -13,7 +13,7 @@
         <!-- background edu -->
         <div class="flex flex-wrap -mx-4">
             <div class="w-full md:w-1/2 px-4 mb-8">
-            <div class="bg-white rounded-lg">
+            <div class="bg-white rounded-lg" >
               <p class="text-xl mb-4 font-bca">2022 - Present</p>
               <p class="mb-4 text-gray-900 text-justify">
                 Studing bachelor degree of Digital Busiess, specialization in

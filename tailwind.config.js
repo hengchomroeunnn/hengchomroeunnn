@@ -15,6 +15,7 @@ module.exports = {
           bca: ["Signika Negative", "sans-serif"],
           bca_bold: ["Signika", "sans-serif"],
           reg: ["Saira Condensed", "sans-serif"],
+          kamchea: ["Khmer"],
         },
       },
       screens: {

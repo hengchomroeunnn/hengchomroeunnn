@@ -11,11 +11,15 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@nuxt/image": "^1.0.0-rc.1",
+    "@types/aos": "^3.0.4",
     "@types/node": "^18",
     "autoprefixer": "^10.4.14",
     "nuxt": "^3.6.1",
     "nuxt-icon": "^0.4.2",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "aos": "^2.3.4"
   }
 }

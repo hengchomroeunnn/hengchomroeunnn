@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     plugins: {
       tailwindcss: {},
       autoprefixer: {},
+      
     },
   },
   app: {
@@ -21,5 +22,8 @@ export default defineNuxtConfig({
       linkActiveClass: "active",
       linkExactActiveClass: "exact-active"
     }
-  }
+  },
+  plugins: [
+    { src: '~/plugins/aos', mode: 'client' },
+  ],
 });
