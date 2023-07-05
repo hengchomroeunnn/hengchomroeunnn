@@ -35,7 +35,7 @@ const greeting = getGreeting();
     <div class="flex flex-wrap ">
       <button @click="toggleState = !toggleState" class="toggle-button">
         <Icon
-          :name="toggleState ? 'ion:moon' : 'ion:sunny'"
+          :name="toggleState ? 'ion:sunny' : 'ion:moon'"
           class="text-[40px] m-4 max-[400px]:text-[25px] max-[480px]:text-[28px] dark:text-white text-yellow-300" />
       </button>
       <NuxtPage class="mx-auto p-4" />
