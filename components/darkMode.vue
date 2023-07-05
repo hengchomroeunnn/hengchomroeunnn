@@ -4,11 +4,11 @@ import { ref } from "vue";
 const colorMode = useColorMode();
 
 // Create a reactive reference for the toggle state
-const toggleState = ref(colorMode.preference === "dark");
+const toggleState = ref(colorMode.preference === "light");
 
 // Watch for changes in the toggle state and update the color mode preference accordingly
 watch(toggleState, newState => {
-  colorMode.preference = newState ? "dark" : "light";
+  colorMode.preference = newState ? "light" : "dark";
 });
 
 const currentHour = new Date().getHours();
@@ -33,7 +33,7 @@ const greeting = getGreeting();
       Good <span class="text-[#7ED957]">{{ greeting }}</span>
     </div>
     <div class="flex flex-wrap ">
-      <button @click="toggleState = !toggleState" class="toggle-button">
+      <button @click="toggleState =!toggleState">
         <Icon
           :name="toggleState ? 'ion:sunny' : 'ion:moon'"
           class="text-[40px] m-4 max-[400px]:text-[25px] max-[480px]:text-[28px] dark:text-white text-yellow-300" />
