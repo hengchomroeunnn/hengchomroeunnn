@@ -32,13 +32,14 @@ const greeting = getGreeting();
       class="text-[40px] font-bca text-gray-900 m-4 max-[400px]:text-[25px] max-[480px]:text-[24px] dark:text-gray-500">
       Good <span class="text-[#7ED957]">{{ greeting }}</span>
     </div>
-    <div>
+    <div class="flex flex-wrap ">
       <button @click="toggleState = !toggleState" class="toggle-button">
         <Icon
           :name="toggleState ? 'ion:moon' : 'ion:sunny'"
           class="text-[40px] m-4 max-[400px]:text-[25px] max-[480px]:text-[28px] dark:text-white text-yellow-300" />
       </button>
       <NuxtPage class="mx-auto p-4" />
+      <switchLanguage/>
     </div>
   </div>
 </template>
