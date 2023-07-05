@@ -39,7 +39,7 @@
       </div>
     </div>
     <div class="flex flex-wrap justify-center items-center space-x-8">
-      <div class=" font-bca text-[#7ED957]">Tech Stacks</div>
+      <div class=" font-bca text-gray-900 text-xl">Tech Stacks: </div>
     </div>
   </div>
 </template>
