@@ -21,7 +21,7 @@
                 Penh, Cambodia.
               </p>
 
-              <img src="images/1bg.jpg" class="w-[50%] mb-2" alt="CADT" />
+              <img src="/images/1bg.jpg" class="w-[50%] mb-2" alt="CADT" />
             </div>
           </div>
 
@@ -33,7 +33,7 @@
                 Cambodia. Got A grade in National Examination (Bacii).
               </p>
               <img
-                src="images/2bg.jpg"
+                src="/images/2bg.jpg"
                 class="w-[74%] mb-2"
                 alt="Udomvichea Highschool, grade A student" />
             </div>
