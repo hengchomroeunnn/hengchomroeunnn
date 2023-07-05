@@ -16,4 +16,10 @@ export default defineNuxtConfig({
       link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
     },
   },
+  router: {
+    options: {
+      linkActiveClass: "active",
+      linkExactActiveClass: "exact-active"
+    }
+  }
 });

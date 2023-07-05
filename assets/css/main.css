@@ -6,7 +6,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.nuxt-link-active {
-  @apply text-black
-  
-}
+.exact-active {
+    @apply  rounded-2xl bg-[#7ED957] text-white  pt-2 pb-2 pl-6 pr-6
+  }
