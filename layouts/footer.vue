@@ -2,7 +2,7 @@
   <div class="flex flex-wrap justify-between border-t-4 pb-4 pt-4 max-[515px]:items-center max-[515px]:flex max-[515px]:justify-center">
     <div class="">
       <div class="w-[40px]  max-[400px]:w-[30px]">
-        <nuxt-link to="/"><img src="/images/logo.png" /></nuxt-link>
+        <nuxt-link to="/"><img src="/images/logo.png"  alt="logo"/></nuxt-link>
       </div>
       <h1 class="text-lg font-bca text-gray-500  max-[400px]:text-base">Heng chomroeun, 2023.</h1>
     </div>

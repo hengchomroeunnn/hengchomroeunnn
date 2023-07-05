@@ -35,7 +35,7 @@
       </div>
       <div
         class="flex flex-wrap justify-center items-center max-[1000px]:w-1/2 m-4">
-        <img src="/images/JR!.jpg" class="rounded-full w-[200px]" />
+        <img src="/images/JR!.jpg" class="rounded-full w-[200px]" alt="profile"/>
       </div>
     </div>
     <div class="flex flex-wrap justify-center items-center space-x-2 pt-5 pb-10">
