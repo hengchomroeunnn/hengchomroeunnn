@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-wrap justify-center items-center pt-10 pb-10">
     <div
-      class="border-4 p-6 rounded-lg w-[40%] max-[1000px]:w-1/2 max-[400px]:p-2 ">
+      class="border-4 rounded-lg w-[500px] h-auto p-4 m-4">
       <div
         class="font-bca text-4xl text-gray-800 max-[400px]:text-2xl max-[480px]:text-xl">
         Rookie, Front-End
