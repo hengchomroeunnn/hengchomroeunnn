@@ -2,6 +2,7 @@
   <darkMode />
   <div class="flex flex-wrap justify-center items-center pt-10 pb-10">
     <div class="border-4 rounded-lg w-[500px] h-auto p-4 m-4 dark:bg-[#0D1117]">
+      <div>{{ $t("greet") }}</div>
       <div
         class="font-bca text-4xl text-gray-800 max-[400px]:text-2xl max-[480px]:text-xl dark:text-white">
         Rookie, Front-End
@@ -63,6 +64,9 @@
         class="text-[40px] m-4 max-[520px]:w-1/4" />
     </div>
   </div>
+  <NuxtLink :to="switchLocalePath('en-US')">English</NuxtLink>
+  <NuxtLink :to="switchLocalePath('kh-KH')">khmer</NuxtLink>
+
 </template>
 
 <style lang="postcss">
@@ -70,3 +74,6 @@ body {
   @apply min-h-screen bg-white dark:bg-[#010409] dark:text-gray-200;
 }
 </style>
+<script setup>
+const switchLocalePath = useSwitchLocalePath();
+</script>
