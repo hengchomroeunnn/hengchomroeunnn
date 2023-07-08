@@ -64,9 +64,6 @@
         class="text-[40px] m-4 max-[520px]:w-1/4" />
     </div>
   </div>
-  <NuxtLink :to="switchLocalePath('en-US')">English</NuxtLink>
-  <NuxtLink :to="switchLocalePath('kh-KH')">khmer</NuxtLink>
-
 </template>
 
 <style lang="postcss">
@@ -74,6 +71,4 @@ body {
   @apply min-h-screen bg-white dark:bg-[#010409] dark:text-gray-200;
 }
 </style>
-<script setup>
-const switchLocalePath = useSwitchLocalePath();
-</script>
+<script setup></script>

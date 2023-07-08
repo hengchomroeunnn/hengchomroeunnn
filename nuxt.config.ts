@@ -1,9 +1,8 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   modules: ["@nuxt/image", "nuxt-icon", "@nuxtjs/color-mode", "@nuxtjs/i18n"],
-  
+
   i18n: {
-    
     lazy: true,
     langDir: "locales",
     strategy: "prefix_except_default",
@@ -26,13 +25,13 @@ export default defineNuxtConfig({
       },
     ],
     defaultLocale: "en-US",
-    vueI18n: "en-US"
+    vueI18n: "en-US",
   },
   colorMode: {
     classSuffix: "",
   },
   devtools: { enabled: true },
-  css: ["~/assets/css/tailwind.css"],
+  css: ["~/assets/css/tailwind.css", "~/assets/css/main.css"],
   postcss: {
     plugins: {
       tailwindcss: {},

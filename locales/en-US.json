@@ -1,1 +1,7 @@
-{ "greet": "Hellooo" }
+{
+  "greet": "Hellooo",
+  "home": "Home",
+  "about": "About",
+  "project": "Project",
+  "name": "Heng Chomroeun"
+}
