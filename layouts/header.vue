@@ -25,6 +25,6 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup>
 const localPath = useLocalePath();
 </script>

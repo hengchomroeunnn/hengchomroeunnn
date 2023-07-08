@@ -42,3 +42,6 @@
     </div>
   </div>
 </template>
+<script setup>
+const localPath = useLocalePath();
+</script>
