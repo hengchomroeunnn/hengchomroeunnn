@@ -22,6 +22,11 @@
         class="hover:rounded-2xl hover:bg-[#7ED957] hover:text-white pt-2 pb-2 pl-6 pr-6"
         >{{ $t("project") }}</nuxt-link
       >
+      <nuxt-link
+        :to="localPath('/content')"
+        class="hover:rounded-2xl hover:bg-[#7ED957] hover:text-white pt-2 pb-2 pl-6 pr-6"
+        >Content</nuxt-link
+      >
     </div>
   </div>
 </template>

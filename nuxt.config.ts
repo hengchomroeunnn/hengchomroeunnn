@@ -1,7 +1,15 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: ["@nuxt/image", "nuxt-icon", "@nuxtjs/color-mode", "@nuxtjs/i18n"],
-
+  modules: [
+    "@nuxt/image",
+    "nuxt-icon",
+    "@nuxtjs/color-mode",
+    "@nuxtjs/i18n",
+    "@nuxt/content",
+  ],
+  content: {
+    // https://content.nuxtjs.org/api/configuration
+  },
   i18n: {
     lazy: true,
     langDir: "locales",
