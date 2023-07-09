@@ -1,5 +1,8 @@
 <template>
   <darkMode />
+  <div class="font-bca text-center text-4xl text-gray-500">
+    <h1>Welcome to everyday <span class="text-[#7ED957]">Article</span></h1>
+  </div>
   <div class="flex flex-wrap p-8 items-center justify-center">
     <template
       v-for="(b, i) in blogNav[0].children"
@@ -10,7 +13,7 @@
           {{ b.title }}
         </h2>
         <img
-          :src="getBlogImage(i+1)"
+          :src="getBlogImage(i + 1)"
           alt="MarineGEO circle logo"
           style="height: 100px; width: 100px" />
         <!-- Loop over files inside the content dir -->
