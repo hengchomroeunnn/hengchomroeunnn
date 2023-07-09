@@ -1,5 +1,7 @@
 # Add TailwindCSS To Nuxt 3
 
+![MarineGEO circle logo](/assets/resources/blog-2.jpg "MarineGEO logo")
+
 ## What is Tailwind CSS?
 
 Tailwind CSS is a utility-first CSS framework for rapidly building custom, high-fidelity, and fully responsive designs with a minimal amount of effort.
@@ -51,19 +53,19 @@ postcss: {
 
 ```js
 module.exports = {
-content: [
-"./components/**/*.{js,vue,ts}",
-"./layouts/**/*.vue",
-"./pages/**/*.vue",
-"./plugins/**/*.{js,ts}",
-"./nuxt.config.{js,ts}",
-"./content/**/*.{md,yml,json,yaml,toml,csv}",
-"./app.vue",
-],
-theme: {
-extend: {},
-},
-plugins: [],
+  content: [
+    "./components/**/*.{js,vue,ts}",
+    "./layouts/**/*.vue",
+    "./pages/**/*.vue",
+    "./plugins/**/*.{js,ts}",
+    "./nuxt.config.{js,ts}",
+    "./content/**/*.{md,yml,json,yaml,toml,csv}",
+    "./app.vue",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
 };
 ```
 
@@ -83,7 +85,7 @@ mkdir -p ./assets/css && touch ./assets/css/tailwind.css
 
 ```js
 export default defineNuxtConfig({
- css: ["@/assets/css/tailwind.css"],
+  css: ["@/assets/css/tailwind.css"],
 });
 ```
 

@@ -11,6 +11,7 @@ According to the officials [ExpressJS Website](https://expressjs.com/), Express 
 
 ## Why Use ExpressJS?
 
+![MarineGEO circle logo](/assets/resources/blog-1.jpg "MarineGEO logo")
 Here are some of the features of express
 
 - Web Applications
@@ -79,7 +80,7 @@ app.listen(process.env.PORT || 3000, () => {
 });
 ```
 
-Now If we visit the app in our browser at <https://localhost:3000>, we will see the following output
+Now If we visit the app in our browser at https://localhost:3000, we will see the following output
 
 ```html
 Hello World!
