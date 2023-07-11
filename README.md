@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/heng-chomroeun-812578256" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heng-chomroeun-812578256" height="30" width="40" /></a>
 <a href="https://fb.com/heng.chomroeun.313" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heng.chomroeun.313" height="30" width="40" /></a>
-<a href="https://t.me/JRRodrigoZ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="heng.chomroeun.313" height="30" width="40" /></a>
+<a href="https://t.me/JRRodrigoZ" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="JRRodrigoZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
