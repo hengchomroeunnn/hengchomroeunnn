@@ -19,7 +19,7 @@
         </p>
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-5 ">
           <template
-            v-for="(b, i) in blogNav[0].children"
+            v-for="(b, i) in blogNav[0].children" 
             :key="`blogNavItem-${b._path}-${i}`">
             <div class="px-7 py-5">
               <img :src="getBlogImage(i + 1)" alt="MarineGEO circle logo" />
