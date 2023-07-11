@@ -14,14 +14,12 @@
         <!-- background edu -->
         <div class="flex flex-wrap -mx-4">
           <div class="w-full md:w-1/2 px-4 mb-8">
-            <div class="bg-white rounded-lg dark:bg-[#0D1117] p-2">
+            <div class="bg-white rounded-lg dark:bg-[#0D1117] p-4">
               <p class="text-xl mb-4 font-bca dark:text-white">
                 2022 - Present
               </p>
               <p class="mb-4 text-gray-900 text-justify dark:text-gray-300">
-                Studing bachelor degree of Digital Busiess, specialization in
-                E-Commerce at Cambodia Academy of Digital Technology in Phnom
-                Penh, Cambodia.
+                {{ $t("2022") }}
               </p>
 
               <img src="/images/1bg.jpg" class="w-[50%] mb-2" alt="CADT" />
@@ -29,7 +27,7 @@
           </div>
 
           <div class="w-full md:w-1/2 px-4 mb-8">
-            <div class="bg-white rounded-lg dark:bg-[#0D1117] p-2">
+            <div class="bg-white rounded-lg dark:bg-[#0D1117] p-4">
               <p class="text-xl mb-4 font-bca dark:text-white">2019 - 2022</p>
               <p class="mb-4 text-gray-900 text-justify dark:text-gray-300">
                 Studied Highschool diploma at Udomvichea Highschool in Kampot,
@@ -43,7 +41,7 @@
           </div>
 
           <div class="w-full md:w-1/2 px-4 mb-4">
-            <div class="bg-white rounded-lg dark:bg-[#0D1117] p-2">
+            <div class="bg-white rounded-lg dark:bg-[#0D1117] p-4">
               <p class="text-xl mb-4 font-bca dark:text-white">2017 - 2022</p>
               <p class="mb-4 text-gray-900 text-justify dark:text-gray-300">
                 Studied at Kampot Krong Cambodia-Japan Friendship Secondary
@@ -52,7 +50,7 @@
             </div>
           </div>
           <div class="w-full md:w-1/2 px-4 mb-4">
-            <div class="bg-white rounded-lg dark:bg-[#0D1117] p-2">
+            <div class="bg-white rounded-lg dark:bg-[#0D1117] p-4">
               <p class="text-xl mb-4 font-bca dark:text-white">2011 - 2017</p>
               <p class="mb-4 text-gray-900 text-justify dark:text-gray-300">
                 Studied at Kampot Krong Primary School in Kampot, Cambodia.
