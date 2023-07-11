@@ -1,9 +1,14 @@
-<!-- ---
-title: Getting Started With ExpressJS
+---
+author: Heng Chomroeun
+publishedAt: July 10 2023
+date: today
+title: ExpressJS
 description: ExpressJS is a minimalistic framework for Node.js. It can be used to create powerful APIs.
 head.title: Getting Started With ExpressJS
 head.description: ExpressJS is a minimalistic framework for Node.js. It can be used to create powerful APIs.
---- -->
+---
+
+![MarineGEO circle logo](/assets/resources/blog-1.png "MarineGEO logo")
 
 # What Is ExpressJS?
 
@@ -11,7 +16,6 @@ According to the officials [ExpressJS Website](https://expressjs.com/), Express 
 
 ## Why Use ExpressJS?
 
-![MarineGEO circle logo](/assets/resources/blog-1.jpg "MarineGEO logo")
 Here are some of the features of express
 
 - Web Applications

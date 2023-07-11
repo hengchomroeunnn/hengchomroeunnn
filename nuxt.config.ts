@@ -9,6 +9,9 @@ export default defineNuxtConfig({
   ],
   content: {
     // https://content.nuxtjs.org/api/configuration
+    navigation: {
+      fields: ['title','author', 'publishedAt']
+    }
   },
   i18n: {
     lazy: true,

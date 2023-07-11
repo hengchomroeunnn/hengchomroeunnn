@@ -1,6 +1,11 @@
+---
+author: Heng Chomroeun
+publishedAt: July 10 2023
+---
+
 # Add TailwindCSS To Nuxt 3
 
-![MarineGEO circle logo](/assets/resources/blog-2.jpg "MarineGEO logo")
+![MarineGEO circle logo](/assets/resources/blog-2.png "MarineGEO logo")
 
 ## What is Tailwind CSS?
 

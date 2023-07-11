@@ -3,7 +3,7 @@
     <main>
       <div class="">
         <div
-          class="text-center text-4xl text-gray-500 font-bold border-b-4 border-dashed pb-10">
+          class="text-center text-4xl text-gray-500 font-bold border-b-4 border-dashed p-4">
           Article
         </div>
       </div>
