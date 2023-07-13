@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **ReactJS, VueJS, PHP, and Laravel.**
 
-- 👨‍💻 All of my projects are available at [hengchomroeun.com](hengchomroeunnn)
+- 👨‍💻 All of my projects are available at
 
-- 📝 I regularly write articles on [hengchomroeun.com](hengchomroeunnn)
+- 📝 I regularly write articles on 
 
 - 📫 How to reach me **Hengchomroeun3103@gmail.com**
 
