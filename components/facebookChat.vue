@@ -14,6 +14,6 @@
   const options: NuxtFacebookChatOptions = {
     pageId: "123896774150882",  // Your Facebook Page ID
     locale: "en_EN",            // Set the locale for the chat
-    themeColor: "#E04040",      // Customize the chat theme color
+    themeColor: "#E04040",      // Customize the chat theme colors
   };
   </script>
