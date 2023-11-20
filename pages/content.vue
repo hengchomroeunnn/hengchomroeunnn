@@ -12,14 +12,14 @@
           Embrace Learning. Foster Collaboration. Flourish Together.
         </h1>
       </section> -->
-      <section class="lg:px-[15%] px-[5%]  pb-14">
+      <section class="lg:px-[15%] px-[5%] pb-14">
         <p
           class="text-center uppercase font-medium tracking-wider mb-10 text-gray-500">
           Blog Posts
         </p>
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-5 ">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-5">
           <template
-            v-for="(b, i) in blogNav[0].children" 
+            v-for="(b, i) in blogNav[0].children"
             :key="`blogNavItem-${b._path}-${i}`">
             <div class="px-7 py-5">
               <img :src="getBlogImage(i + 1)" alt="MarineGEO circle logo" />
