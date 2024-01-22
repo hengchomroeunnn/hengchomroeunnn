@@ -1,5 +1,4 @@
 <template>
-  <darkMode />
   <div>
     <main>
       <div class="">

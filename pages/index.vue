@@ -64,10 +64,6 @@
         class="text-[40px] m-4 max-[520px]:w-1/4" />
     </div>
   </div>
-  <div id="fb-root"></div>
-
-  <!-- Your Chat Plugin code -->
-  <div id="fb-customer-chat" class="fb-customerchat"></div>
 </template>
 
 <style lang="postcss">
@@ -75,16 +71,4 @@ body {
   @apply min-h-screen bg-white dark:bg-[#010409] dark:text-gray-200;
 }
 </style>
-<script>
-export default {
-  mounted() {
-    this.$FB().then(FB => {
-      FB.XFBML.parse();
-    });
-
-    var chatbox = document.getElementById("fb-customer-chat");
-    chatbox.setAttribute("page_id", "104145769148399");
-    chatbox.setAttribute("attribution", "biz_inbox");
-  },
-};
-</script>
+<script setup></script>
