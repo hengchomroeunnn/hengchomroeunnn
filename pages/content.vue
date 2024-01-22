@@ -1,5 +1,5 @@
 <template>
-  <DarkMode />
+  <darkMode />
   <div class="min-h-screen">
     <main>
       <!-- <section class="lg:px-[15%] px-[5%] pt-20">

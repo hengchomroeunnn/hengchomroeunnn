@@ -10,8 +10,8 @@ export default defineNuxtConfig({
   content: {
     // https://content.nuxtjs.org/api/configuration
     navigation: {
-      fields: ['title','author', 'publishedAt']
-    }
+      fields: ["title", "author", "publishedAt"],
+    },
   },
   i18n: {
     lazy: true,
@@ -68,5 +68,8 @@ export default defineNuxtConfig({
       linkExactActiveClass: "exact-active",
     },
   },
-  plugins: [{ src: "~/plugins/aos", mode: "client" }],
+  plugins: [
+    { src: "~/plugins/aos", mode: "client" },
+    { src: "~/plugins/facebook-sdk.js", mode: "client" },
+  ],
 });
