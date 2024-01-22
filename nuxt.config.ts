@@ -6,8 +6,18 @@ export default defineNuxtConfig({
     "@nuxtjs/color-mode",
     "@nuxtjs/i18n",
     "@nuxt/content",
+    "nuxt-facebook-chat",
   ],
   content: {
+    markdown: {
+      toc: {
+        depth: 3,
+        searchDepth: 3,
+      },
+    },
+    highlight: {
+      theme: "dracula",
+    },
     // https://content.nuxtjs.org/api/configuration
     navigation: {
       fields: ["title", "author", "publishedAt"],
