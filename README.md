@@ -8,9 +8,9 @@ I design thoughtful digital products that solve real problems.
 
 Currently crafting user experiences at the intersection of **design, AI, and product strategy**, while occasionally shipping code to bring ideas to life.
 
-[Portfolio](https://hengchomroeun.com) •
+[Portfolio](https://chomroeun.reversifycreative.com) •
 [LinkedIn](https://linkedin.com/in/heng-chomroeun-812578256) •
-[Email](mailto:hengchomroeunnn@gmail.com)
+[Email](mailto:hengchomroeun3103@gmail.com)
 
 </div>
 
@@ -124,5 +124,5 @@ I believe the best products feel obvious—not because they're simple, but becau
 ## Let's Connect
 
 - 🌐 https://hengchomroeun.com
-- 💼 LinkedIn
+- 💼 https://www.linkedin.com/in/heng-chomroeun/
 - 📧 hengchomroeunnn@gmail.com
