@@ -13,7 +13,7 @@ Shipping ideas.
 </p>
 
 <p>
-<a href="https://chomroeun.reversiftycreative.com">Portfolio</a> •
+<a href="https://chomroeun.reversifycreative.com/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/heng-chomroeun/">LinkedIn</a> •
 <a href="mailto:hengchomroeun3103@gmail.com">Email</a>
 </p>
