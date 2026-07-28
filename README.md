@@ -1,33 +1,45 @@
-# Heng Chomroeun
+<div align="center">
 
-Product Designer from Cambodia.
+<h1>Heng Chomroeun</h1>
 
-Designing thoughtful products.
-Exploring AI.
-Turning ideas into reality.
+<p>
+Product Designer • AI Builder • Problem Solver
+</p>
 
----
+<p>
+Designing products people love.<br>
+Building AI experiences.<br>
+Shipping ideas.
+</p>
 
-Currently
+<p>
+<a href="https://hengchomroeun.com">Portfolio</a> •
+<a href="https://linkedin.com/in/heng-chomroeun-812578256">LinkedIn</a> •
+<a href="mailto:hengchomroeunnn@gmail.com">Email</a>
+</p>
 
-• Product Designer @ Tovtrip
-• Product Designer @ Reversify Creative
-• Co-founder @ Fintory
-• Building an AI Portfolio
-
----
-
-Selected Work
-
-→ AI Portfolio
-→ Tovtrip
-→ Fintory
-→ UX Articles
+</div>
 
 ---
 
-*"Simple is hard. That's why it's worth pursuing."*
+## Current Focus
+
+- Product Design @ Tovtrip
+- Product Designer @ Reversify Creative
+- Co-founder @ Fintory
+- AI Portfolio
+- Design Systems
+- Human-Centered AI
 
 ---
 
-🌐 chomroeun.reversifycreative.com
+## Selected Work
+
+- AI Portfolio
+- Tovtrip Travel SuperApp
+- Fintory
+- UX Articles
+
+---
+
+> *"Great products aren't just usable. They're memorable."*
